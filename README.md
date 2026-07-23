@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 I'm currently a Computer Science Specialist and Economics Major @ UofT!
 
 Looking to build something new. Feel free to reach out!
+
+![My Visitors](https://github-stalker-riy8.onrender.com/users/mrafie1)
