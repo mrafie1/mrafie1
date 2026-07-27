@@ -2,7 +2,7 @@
 
 **Thanks for Visiting! :)**
 
-![My Visitors](https://github-stalker-riy8.onrender.com/users/mrafie1?v=2)
+![My Visitors](https://github-stalker-riy8.onrender.com/users/mrafie1?theme=minecraft)
 
 I'm currently a Computer Science Specialist and Economics Major @ UofT!
 
